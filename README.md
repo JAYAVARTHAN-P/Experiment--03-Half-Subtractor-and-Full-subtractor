@@ -99,6 +99,9 @@ endmodule
 
 ## Timing diagram:
 ## Half subtractor:
+![HS](https://github.com/JAYAVARTHAN-P/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/121369281/f6c44d84-590b-4e4a-acbe-7f5c5334ddb5)
+
+
 
 
 
